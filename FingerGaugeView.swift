@@ -18,7 +18,7 @@ class FingerGaugeView: UIView {
         shapLayer.lineCap = CAShapeLayerLineCap.round
         shapLayer.lineJoin = CAShapeLayerLineJoin.round
         shapLayer.lineWidth = 0
-        layer.addSublayer(shapLayer)111
+        layer.addSublayer(shapLayer)
     }
     
     override func layoutSubviews() {
