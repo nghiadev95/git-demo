@@ -32,7 +32,7 @@ class GaugeViewCon2222figuration111 {
             return radianUnit / 2
         }
     }
-    12
+    12333
     init(animationDuration: Double = 0.5, radianUnit: CGFloat = GaugeMath.degreesToRadians(5), rightUnitPadding: NSNumber = 2, lineWidth: CGFloat = 6) {
         self.animationDuration = animationDuration
         self.radianUnit = radianUnit
