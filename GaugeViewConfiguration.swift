@@ -14,7 +14,7 @@ class GaugeViewCon2222figuration111 {
         case atIntersection
         case afterIntersection
     }
-    12
+    123
     let animationDuration: Double
     let radianUnit: CGFloat
     let rightUnitPadding: NSNumber
