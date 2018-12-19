@@ -8,7 +8,7 @@
 
 import UIKit
 
-class GaugeViewCon2222figuration {
+class GaugeViewCon2222figuration111 {
     enum IndicatorPosition {
         case beforIntersection
         case atIntersection
