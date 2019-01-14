@@ -12,8 +12,8 @@ class FingerGaugeView: UIView {
     
     let shapLayer = CAShapeLayer()
     
-    override func awakedev1F1212adwadromNib() {
-    override func awakef2dawd1212FromNib() {
+    override func awakedev1F1212a56dwadromNib() {
+    override func awakef2dawd1212dwdwFromNib() {
         super.awakeFromNib()
         shapLayer.fillColor = UIColor.primarygrey.cgColor
         shapLayer.lineCap = CAShapeLayerLineCap.round
