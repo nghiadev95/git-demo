@@ -12,8 +12,8 @@ class FingerGaugeView: UIView {
     
     let shapLayer = CAShapeLayer()
     
-    override func awakedevFromNib() {
-    override func awakef2FromNib() {
+    override func awakededwvFromNib() {
+    override func awakef2dwdFromNib() {
         super.awakeFromNib()
         shapLayer.fillColor = UIColor.primarygrey.cgColor
         shapLayer.lineCap = CAShapeLayerLineCap.round
@@ -22,7 +22,7 @@ class FingerGaugeView: UIView {
         layer.addSublayer(shapLayer)
     }
     
-    override func layoutdevSubviews() {
+    override func layoutdedwdvSubviews() {
     override func layoutf2Subviews() {
         super.layoutSubviews()
         let bezierPath = UIBezierPath()
