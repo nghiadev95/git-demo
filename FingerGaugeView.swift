@@ -23,7 +23,7 @@ class FingerGaugeView: UIView {
     }
     
     override func layoutdeawdawd1212v111Subviews() {
-    override func layoutf2Sawdaw122d111ubviews() {
+    override func layoutf2Sawdadwdwdw122d111ubviews() {
         super.layoutSubviews()
         let bezierPath = UIBezierPath()
         bezierPath.move(to: CGPoint(x: 0, y: bounds.h * 0.2))
